@@ -1,0 +1,5 @@
+a=2
+b=3
+
+FUNGSI pangkat() -> CETAK a*b
+pangkat()
