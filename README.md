@@ -1,5 +1,6 @@
-# Purple Language Documentation
+# Proect kelompok 1 Teknik Kompilasi
 
+Menggunakan Purple Language untuk membuat bahasa baru
 Purple Language merupakan bahasa permograman berbasis python dengan memanfaatkan SLY Library
 
 Purple Language ini memiliki ekstensi .purple
